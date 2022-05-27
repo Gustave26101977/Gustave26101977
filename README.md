@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Gustave26101977
 - 👀 I’m interested in SAS,SQL,R,PYTHON, STATA, STAT GRAPHICS. 
-- 🌱 I’m currently learning ECONOMETRICS.
+- 🌱 I’m currently learning Econometrics, Data Analyst, Data Scientist. 
 - 💞️ I’m looking to collaborate on .STATISTICS, DATA (OR DATA SCIENCE) .
 - 📫 How to reach me wanenguila@gmail.com .
 
